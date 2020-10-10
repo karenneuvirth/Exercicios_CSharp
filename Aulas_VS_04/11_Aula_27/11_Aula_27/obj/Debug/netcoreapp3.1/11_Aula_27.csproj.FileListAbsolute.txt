@@ -1,0 +1,13 @@
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\bin\Debug\netcoreapp3.1\11_Aula_27.exe
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\bin\Debug\netcoreapp3.1\11_Aula_27.deps.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\bin\Debug\netcoreapp3.1\11_Aula_27.runtimeconfig.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\bin\Debug\netcoreapp3.1\11_Aula_27.runtimeconfig.dev.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\bin\Debug\netcoreapp3.1\11_Aula_27.dll
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\bin\Debug\netcoreapp3.1\11_Aula_27.pdb
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\obj\Debug\netcoreapp3.1\11_Aula_27.AssemblyInfoInputs.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\obj\Debug\netcoreapp3.1\11_Aula_27.AssemblyInfo.cs
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\obj\Debug\netcoreapp3.1\11_Aula_27.csproj.CoreCompileInputs.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\obj\Debug\netcoreapp3.1\11_Aula_27.dll
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\obj\Debug\netcoreapp3.1\11_Aula_27.pdb
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\obj\Debug\netcoreapp3.1\11_Aula_27.genruntimeconfig.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\11_Aula_27\11_Aula_27\obj\Debug\netcoreapp3.1\11_Aula_27.csprojAssemblyReference.cache
