@@ -1,0 +1,13 @@
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\bin\Debug\netcoreapp3.1\08_Aula_23_ex_02.exe
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\bin\Debug\netcoreapp3.1\08_Aula_23_ex_02.deps.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\bin\Debug\netcoreapp3.1\08_Aula_23_ex_02.runtimeconfig.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\bin\Debug\netcoreapp3.1\08_Aula_23_ex_02.runtimeconfig.dev.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\bin\Debug\netcoreapp3.1\08_Aula_23_ex_02.dll
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\bin\Debug\netcoreapp3.1\08_Aula_23_ex_02.pdb
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\obj\Debug\netcoreapp3.1\08_Aula_23_ex_02.AssemblyInfoInputs.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\obj\Debug\netcoreapp3.1\08_Aula_23_ex_02.AssemblyInfo.cs
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\obj\Debug\netcoreapp3.1\08_Aula_23_ex_02.csproj.CoreCompileInputs.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\obj\Debug\netcoreapp3.1\08_Aula_23_ex_02.dll
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\obj\Debug\netcoreapp3.1\08_Aula_23_ex_02.pdb
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\obj\Debug\netcoreapp3.1\08_Aula_23_ex_02.genruntimeconfig.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\08_Aula_23_ex_02\08_Aula_23_ex_02\obj\Debug\netcoreapp3.1\08_Aula_23_ex_02.csprojAssemblyReference.cache

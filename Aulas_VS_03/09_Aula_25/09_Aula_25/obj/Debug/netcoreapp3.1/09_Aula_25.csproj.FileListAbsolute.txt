@@ -1,0 +1,13 @@
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\bin\Debug\netcoreapp3.1\09_Aula_25.exe
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\bin\Debug\netcoreapp3.1\09_Aula_25.deps.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\bin\Debug\netcoreapp3.1\09_Aula_25.runtimeconfig.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\bin\Debug\netcoreapp3.1\09_Aula_25.runtimeconfig.dev.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\bin\Debug\netcoreapp3.1\09_Aula_25.dll
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\bin\Debug\netcoreapp3.1\09_Aula_25.pdb
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\obj\Debug\netcoreapp3.1\09_Aula_25.csprojAssemblyReference.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\obj\Debug\netcoreapp3.1\09_Aula_25.AssemblyInfoInputs.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\obj\Debug\netcoreapp3.1\09_Aula_25.AssemblyInfo.cs
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\obj\Debug\netcoreapp3.1\09_Aula_25.csproj.CoreCompileInputs.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\obj\Debug\netcoreapp3.1\09_Aula_25.dll
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\obj\Debug\netcoreapp3.1\09_Aula_25.pdb
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\09_Aula_25\09_Aula_25\obj\Debug\netcoreapp3.1\09_Aula_25.genruntimeconfig.cache
