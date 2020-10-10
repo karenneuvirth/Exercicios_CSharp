@@ -1,0 +1,12 @@
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\bin\Debug\netcoreapp3.1\03_Aula_18.exe
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\bin\Debug\netcoreapp3.1\03_Aula_18.deps.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\bin\Debug\netcoreapp3.1\03_Aula_18.runtimeconfig.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\bin\Debug\netcoreapp3.1\03_Aula_18.runtimeconfig.dev.json
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\bin\Debug\netcoreapp3.1\03_Aula_18.dll
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\bin\Debug\netcoreapp3.1\03_Aula_18.pdb
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\obj\Debug\netcoreapp3.1\03_Aula_18.AssemblyInfoInputs.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\obj\Debug\netcoreapp3.1\03_Aula_18.AssemblyInfo.cs
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\obj\Debug\netcoreapp3.1\03_Aula_18.csproj.CoreCompileInputs.cache
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\obj\Debug\netcoreapp3.1\03_Aula_18.dll
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\obj\Debug\netcoreapp3.1\03_Aula_18.pdb
+C:\Users\Karen Neuvirth\Desktop\PROJETOS\CURSOS\C# - Completo_Udemy\Seção 03\Aulas_VS\03_Aula_18\03_Aula_18\obj\Debug\netcoreapp3.1\03_Aula_18.genruntimeconfig.cache
