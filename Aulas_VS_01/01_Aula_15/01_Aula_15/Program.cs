@@ -27,8 +27,8 @@ namespace _01_Aula_15
 
             //*******************************
 
-            bool completo = false;
-            char genero = 'F';
+            bool completo = false; // bool aceita estados de true ou false.
+            char genero = 'F'; 
             char letra = '\u0041';
 
             Console.WriteLine(completo);
@@ -56,6 +56,11 @@ namespace _01_Aula_15
             Console.WriteLine(n8);
             Console.WriteLine(n9);
             Console.WriteLine(n10);
+            
+            int number01 = 10;
+            int number01 ++; // implementa + 1 na variavel
+            
+            Console.WriteLine(number01);
 
             /*
             //Exemplo 01
